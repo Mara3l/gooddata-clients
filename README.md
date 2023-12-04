@@ -14,4 +14,3 @@ TBD...
 - nextjs
 - vuejs
 - angular
-- wasp
