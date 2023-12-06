@@ -1,16 +1,16 @@
-# GoodData Clients Overview
+# GoodData Clients
 
-TBD...
+The repository contains several examples of integration of GoodData with frontend frameworks like React.js, Vue.js, etc. You can find the whole list of examples below. 
 
-## Article structure
+## Examples of Integration
 
-- gd intro
-- show chart in GD (AD / KD)
+- [Angular](./clients//angular)
+- [Next.js](./clients/nextjs/)
+- [React.js](./clients//reactjs/)
+- [Sveltekit](./clients/sveltekit/)
+- [Vanilla JavaScript](./clients/vanilla/)
+- [Vue.js](./clients/vuejs/)
 
-- explanation of GD.UI, how it works, execution
+## GoodData Trial
 
-- vanilla JS
-- reactjs
-- nextjs
-- vuejs
-- angular
+If you want to try it on your own, you can do it with free [GoodData trial](https://wwww.gooddata.com/trial).
